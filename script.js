@@ -12,6 +12,8 @@ document.addEventListener("DOMContentLoaded", function() {
     loadSection('hero', 'hero.html');
     loadSection('categories', 'categories.html');
     loadSection('destinations', 'destinations.html');
+    loadSection('testimonials', 'testimonials.html');
+    loadSection('partners', 'partners.html');
     loadSection('subscribe', 'subscribe.html');
     loadSection('footer', 'footer.html');
 });
