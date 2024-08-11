@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     loadSection('header', 'header.html');
     loadSection('hero', 'hero.html');
     loadSection('categories', 'categories.html');
-    loadSectionoadSection('destinations', 'destinations.html');
+    loadSection('destinations', 'destinations.html');
     loadSection('subscribe', 'subscribe.html');
     loadSection('footer', 'footer.html');
 });
